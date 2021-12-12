@@ -3,7 +3,7 @@
 
 # Interface Utilisateur des Instituts des Hautes Etudes :
 
-# Pour avoir ce projet en local, exécutez les commandes suivantes :
+Pour avoir ce projet en local, exécutez les commandes suivantes :
 
 1 - Copiez le lien du projet puis faites git clone ensuite collez le lien ;
 
